@@ -1,4 +1,4 @@
-# P.S.) This Project-System took me a whole day (noon until evening), to get to the correct structure (architecturing), for the correct flows.
+# P.S.) This Project-System took me a whole day (noon until evening), to get to the correct System-architecture (flows).
 # It was mentally daunting, not going away until I cracked the correct Logic behind it and build it fully correctly.
 # It was terribly amazing!
 
